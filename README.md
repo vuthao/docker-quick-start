@@ -23,6 +23,7 @@
 12.  docker diff container-name-or-id : diff
 13.  docker logs -f container-name-or-id : Log container
 14.  docker stats container-name-or-id : Stats
+15.  docker exec -it {new_container_name} sh: Truy cập vào container đang chạy:
 
 
 ## Network in Docker
